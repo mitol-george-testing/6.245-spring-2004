@@ -1,0 +1,36 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "030befc3-653f-c37b-adeb-34d7d4700e88"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Multivariable Control Systems",
+  "course_description": "This course uses computer-aided design methodologies for synthesis of multivariable feedback control systems. Topics covered include: performance and robustness trade-offs; model-based compensators; Q-parameterization; ill-posed optimization problems; dynamic augmentation; linear-quadratic optimization of controllers; H-infinity controller design; Mu-synthesis; model and compensator simplification; and nonlinear effects. The assignments for the course comprise of computer-aided (MATLAB\u00ae) design problems.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.245",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
